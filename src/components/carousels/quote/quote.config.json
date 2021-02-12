@@ -1,0 +1,15 @@
+{
+  "title": "Quote Carousel",
+  "handle": "carousel-quote",
+  "context": {
+    "slides": [
+      {
+        "handle": "\\@quote"
+      },
+      {
+        "handle": "\\@quote",
+        "text": "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe."
+      }
+    ]
+  }
+}

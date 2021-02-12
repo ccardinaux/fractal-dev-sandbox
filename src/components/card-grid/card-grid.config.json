@@ -1,0 +1,14 @@
+{
+  "context": {
+    "cards": [
+      {
+        "handle": "\\@card",
+        "title": "Card 1"
+      },
+      {
+        "handle": "\\@card",
+        "title": "Card 2"
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Image Carousel",
+  "handle": "carousel-image",
+  "context": {
+    "slides": [
+      {
+        "content": "<img class=\"d-block w-100\" src=\"https://placehold.it/690x345/757575?text=First slide\" alt=\"First slide\">"
+      },
+      {
+        "content": "<img class=\"d-block w-100\" src=\"https://placehold.it/690x345/757575?text=Second slide\" alt=\"Second slide\">"
+      },
+      {
+        "content": "<img class=\"d-block w-100\" src=\"https://placehold.it/690x345/757575?text=Third slide\" alt=\"Third slide\">"
+      }
+    ]
+  }
+}

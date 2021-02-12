@@ -1,0 +1,14 @@
+{
+  "title": "Card Grid Carousel",
+  "handle": "carousel-card-grid",
+  "context": {
+    "slides": [
+      {
+        "handle": "\\@card-grid"
+      },
+      {
+        "handle": "\\@card-grid"
+      }
+    ]
+  }
+}

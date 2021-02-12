@@ -1,0 +1,17 @@
+{
+  "name": "fractal-dev-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "fractal start --sync",
+    "build": "fractal build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@frctl/fractal": "1.5.3",
+    "@frctl/handlebars": "1.1.5",
+    "@frctl/mandelbrot": "1.8.0"
+  }
+}
