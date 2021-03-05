@@ -10,8 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@frctl/fractal": "1.5.3",
-    "@frctl/handlebars": "1.1.5",
-    "@frctl/mandelbrot": "1.8.0"
+    "@frctl/fractal": "1.5.4",
+    "@frctl/handlebars": "1.2.7",
+    "@frctl/mandelbrot": "1.8.1"
   }
 }
